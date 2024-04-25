@@ -1,1 +1,1 @@
-# SPPU-DSA-Practical
+# SPPU SE DSA Practical
